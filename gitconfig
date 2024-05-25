@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jheronn77@gmail.com
+	name = joseph heron
